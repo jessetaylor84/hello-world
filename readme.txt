@@ -1,1 +1,2 @@
-hello\n friend
+hello friend
+I really love git
